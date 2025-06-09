@@ -134,7 +134,6 @@ This project delivers an end-to-end data science solution to a real-world busine
 
 3. Place all .csv files inside a data/ directory in your project root.
 
-4. Install dependencies: 
-- pip install -r requirements.txt
+4. Install dependencies: pip install -r requirements.txt
 
 5. Launch the notebook on your preferred IDE or cloud platform (Colab, Jupyter .etc)
